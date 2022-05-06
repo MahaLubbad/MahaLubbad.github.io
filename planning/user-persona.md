@@ -2,7 +2,7 @@
 
 **Photography Website..**
 
-## Passionate photographer
+## Inspiring photographer
 
 - **Bio:** Anna is 26 years old, she works as a journalist and her greatest
   passion is photography.

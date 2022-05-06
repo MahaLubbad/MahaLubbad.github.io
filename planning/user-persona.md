@@ -9,7 +9,7 @@
     be unique and personalized.
   - Know more locations to be inspired.
 - **Frustrations:** Always ends up repeating the same locations.  
-  -**Scenario:** Anna got a new professional camera as her birthday present. She
+- **Scenario:** Anna got a new professional camera as her birthday present. She
   enjoys the most taking nature photos and she is always looking for sources of
   inspirations.
 
